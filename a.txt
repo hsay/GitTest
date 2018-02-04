@@ -4,3 +4,4 @@ this is file a
 add in my devbranck
 add new
 add new2
+this is new 3 test conflict
